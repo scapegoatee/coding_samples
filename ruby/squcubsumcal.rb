@@ -46,14 +46,3 @@ rescue NoMethodError
     puts "Be cool! Don't act over-smart! ;)"
     puts ""
 end
-=begin
-if function == "square" 
-     square
-elsif function == "cube"
-  cube
-elsif function == "sum"
-     sum
-else
-    puts "muhah"
-end
-=end
