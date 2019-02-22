@@ -7,17 +7,6 @@
 
        * Print the next twenty leap years from current day.
 
-- This is the general code to print leap years till n:
-
-def leap_year
-    n = 3000
-    (1..n).each do |i|
-        next unless i % 4 == 0
-        next if (i % 100 == 0) && (i % 400 != 0)
-        puts i
-    end
-end
-leap_year
 =end
 
 def leap_year
