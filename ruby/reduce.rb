@@ -1,5 +1,3 @@
-# This is how reduce works:
-
 module Enumerable
     def reducer(sum)
         self.each do |var|
